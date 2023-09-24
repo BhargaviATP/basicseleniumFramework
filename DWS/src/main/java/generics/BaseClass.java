@@ -58,22 +58,6 @@ public class BaseClass {
 	}
 }
 
-//@Test
-//	public void logintask() throws InterruptedException {
-//		js=new JavaScriptUtility();
-//		WebElement element = driver.findElement(By.linkText("Log in"));
-//		js.clickonElement(element);
-//		WebElement ele = driver.findElement(By.id("Email"));
-//		WebElement ele1 = driver.findElement(By.id("Password"));
-//		js.enteringdataintoElement("bhargavi",ele);
-//		js.enteringdataintoElement("abcdefg123",ele1);
-//		WebElement rembutton = driver.findElement(By.id("RememberMe"));
-//		js.clickonElement(rembutton);
-//		WebElement ele2 = driver.findElement(By.xpath("//input[@value='Log in']"));
-//		js.clickonElement(ele2);
-//		Thread.sleep(3000);
-//	}
-//	
 
 
 
