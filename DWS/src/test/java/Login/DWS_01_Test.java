@@ -14,7 +14,7 @@ public class DWS_01_Test extends BaseClass {
 		login.getRememberMeButton().click();
 		login.getLoginbutton().click();
 		login.getSearchTextFiled().sendKeys("gadgets");
-		Thread.sleep(2005);
+		Thread.sleep(3000);
 		login.getSearchButton().click();	
 	}
 }
